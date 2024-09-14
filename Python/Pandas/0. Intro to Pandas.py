@@ -10,4 +10,6 @@
     Is able to load data of different formats into DataFrames
     Can join and merge different datasets together
     It integrates with NumPy and Matplotlib
+
+    For more Info : https://pandas.pydata.org/pandas-docs/stable/
 '''
